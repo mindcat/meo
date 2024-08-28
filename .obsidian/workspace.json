@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "c3f568622d6e5295",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f7c8ac331f451b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f2b9a17f1943217",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d40a6a1d26fc4174",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c782def4fbf5d97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b72d0ff6bc05d06f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0601c9a9e1f8bbb4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "41e256961f1aa819",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3b58c5cbd45a8006",
+    "type": "split",
+    "children": [
+      {
+        "id": "18e08be0925c629d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b38dd950fb9b9276",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bdbd1bca3f5e7d15",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e052801966366a85",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "87361c76825fdbd5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1f2b9a17f1943217",
+  "lastOpenFiles": [
+    "testing syncing.md",
+    "README.md",
+    "rit/sem9/Ψ/week-1.md",
+    "rit/sem9/haskell/haskell-notes.md",
+    "Ink/Drawing/2024.8.28 - 13.16pm.drawing",
+    "Ink/Drawing",
+    "Ink/Writing/2024.8.28 - 13.15pm.writing",
+    "Ink/Writing",
+    "Ink",
+    "rit/sem9/Ψ/Untitled.md",
+    "rit/sem9/Φ",
+    "rit/sem9/Ψ",
+    "rit/sem9/neuromorphic",
+    "rit/sem9/haskell",
+    "rit/sem9/arabic"
+  ]
+}
